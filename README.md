@@ -1,5 +1,9 @@
 ### <div align="center">I'm Pauline, an OpenClassrooms student, </div>  
 
+
+
+
+
 - 🔭 I'm currently working on Project 8 - Kasa for OpenClassrooms
 
 - 🌱 I’m currently learning Javascript   
